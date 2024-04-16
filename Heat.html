@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Sector Turnover Treemap</title>
+    <!-- Include Highcharts library -->
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/treemap.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script> <!-- Include accessibility module -->
+    <style>
+        /* Add styling as needed */
+        #chart {
+            height: 800px;
+            width: 1000px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <!-- Container for the treemap -->
+    <div id="chart"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Fetch data from data.json
+            fetch('data.json')
+                .then(response => response.json())
+                .then(data => {
+                    const formattedData = [];
+
+                    // Collect stock data and group by sector
+                    data.maps.forEach(stock => {
+                        const sector = stock.type;
+                        const type = stock.name;
+                        formattedData.push({
+                            name: sector, // Use sector as name
+                            value: parseFloat(stock.volume.replace(/,/g, '')),
+                            children: [{
+                                name: type,
+                                value: parseFloat(stock.volume.replace(/,/g, '')),
+                                price: parseFloat(stock.price),
+                                pc: parseFloat(stock.pc),
+                                vwap: parseFloat(stock.vwap)
+                            }]
+                        });
+                    });
+
+                    // Create treemap chart
+                    Highcharts.chart('chart', {
+                        series: [{
+                            type: 'treemap',
+                            layoutAlgorithm: 'squarified',
+                            data: formattedData,
+                            levels: [{
+                                level: 1,
+                                dataLabels: {
+                                    enabled: true,
+                                    formatter: function () {
+                                        // Display type and name
+                                        return '<b>' + this.point.name + '</b><br>' +
+                                            '<i>' + this.point.children[0].name + '</i><br>' +
+                                            'Percent Change: ' + Highcharts.numberFormat(this.point.children[0].pc, 2) + '%<br>';
+                                    }
+                                },
+                                borderWidth: 3
+                            }],
+                            // Color points by value
+                            colorByPoint: true
+                        }],
+                        title: {
+                            text: 'Custom Sector Turnover Treemap'
+                        },
+                        colorAxis: {
+                            minColor: '#2f7ed8',
+                            maxColor: '#ff6347'
+                        },
+                        tooltip: {
+                            formatter: function () {
+                                // Display type, name, and other information
+                                return '<b>' + this.point.name + '</b><br>' +
+                                    '<i>' + this.point.children[0].name + '</i><br>' +
+                                    'Volume: ' + Highcharts.numberFormat(this.point.children[0].value, 0) + '<br>' +
+                                    'Price: ' + Highcharts.numberFormat(this.point.children[0].price, 2) + '<br>' +
+                                    'Percent Change: ' + Highcharts.numberFormat(this.point.children[0].pc, 2) + '%<br>' +
+                                    'VWAP: ' + Highcharts.numberFormat(this.point.children[0].vwap, 2);
+                            }
+                        },
+                        accessibility: {
+                            enabled: true
+                        }
+                    });
+                })
+                .catch(error => {
+                    console.error('Error fetching or parsing JSON:', error);
+                });
+        });
+    </script>
+</body>
+</html>

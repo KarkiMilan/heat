@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Sector</title>
+    <!-- Include Highcharts library -->
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/treemap.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    <style>
+        /* Add styling as needed */
+        #chart {
+            height: 800px;
+            width: 1000px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <!-- Container for the treemap -->
+    <div id="chart"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Fetch data from data.json
+            fetch('data.json')
+                .then(response => response.json())
+                .then(data => {
+                    const formattedData = [];
+
+                    // Group data by sector
+                    const sectors = {};
+                    data.maps.forEach(stock => {
+                        const sector = stock.type;
+                        if (!sectors[sector]) {
+                            sectors[sector] = [];
+                        }
+                        sectors[sector].push({
+                            name: stock.name,
+                            value: parseFloat(stock.volume.replace(/,/g, '')),
+                            price: parseFloat(stock.price),
+                            pc: parseFloat(stock.pc),
+                            vwap: parseFloat(stock.vwap)
+                        });
+                    });
+
+                    // Create formatted data for treemap
+                    for (const sector in sectors) {
+                        formattedData.push({
+                            name: sector,
+                            value: sectors[sector].reduce((acc, curr) => acc + curr.value, 0),
+                            children: sectors[sector]
+                        });
+                    }
+
+                    // Create treemap chart
+                    const chart = Highcharts.chart('chart', {
+                        series: [{
+                            type: 'treemap',
+                            layoutAlgorithm: 'squarified',
+                            data: formattedData,
+                            levels: [{
+                                level: 1,
+                                dataLabels: {
+                                    enabled: true,
+                                    formatter: function () {
+                                        return '<b>' + this.point.name + '</b><br>' +
+                                            'Percent Change: ' + Highcharts.numberFormat(this.point.pc, 2) + '%<br>';
+                                    }
+                                },
+                                borderWidth: 3
+                            }],
+                            // Color points by value
+                            colorByPoint: true
+                        }],
+                        title: {
+                            text: 'Prototype'
+                        },
+                        colorAxis: {
+                            minColor: '#2f7ed8',
+                            maxColor: '#ff6347'
+                        },
+                        tooltip: {
+                            formatter: function () {
+                                return '<b>' + this.point.name + '</b><br>' +
+                                    'Volume: ' + Highcharts.numberFormat(this.point.value, 0) + '<br>' +
+                                    'Price: ' + Highcharts.numberFormat(this.point.price, 2) + '<br>' +
+                                    'Percent Change: ' + Highcharts.numberFormat(this.point.pc, 2) + '%<br>' +
+                                    'VWAP: ' + Highcharts.numberFormat(this.point.vwap, 2);
+                            }
+                        },
+                        accessibility: {
+                            enabled: true
+                        }
+                    });
+
+                    // Add click event to the chart
+                    chart.series[0].points.forEach(point => {
+                        point.graphic.on('click', function () {
+                            const sector = point.name;
+                            const newData = sectors[sector];
+                            chart.series[0].setData(newData);
+                        });
+                    });
+                })
+                .catch(error => {
+                    console.error('Error fetching or parsing JSON:', error);
+                });
+        });
+    </script>
+</body>
+</html>

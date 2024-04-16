@@ -1,0 +1,1330 @@
+{
+    "date": "2024-03-21 15:00:00",
+    "nepseIndex": "2,048.57",
+    "pointChange": "-15.37",
+    "perChange": "-0.74%",
+    "color": "#ac2925",
+    "maps": [
+        {
+            "type": "Commercial Bank",
+            "name": "NMB",
+            "value": "1921905",
+            "volume": "1921905",
+            "price": "186.10",
+            "pc": "-1.01",
+            "vwap": 186.44790454016297
+        },
+        {
+            "type": "CommercialBank",
+            "name": "SBL",
+            "value": "6047767",
+            "volume": "6047767",
+            "price": "225.00",
+            "pc": "-1.06",
+            "vwap": 224.32370178041543
+        },
+        {
+            "type": "Commercial Bank",
+            "name": "KBL",
+            "value": "8539937",
+            "volume": "8539937",
+            "price": "140.60",
+            "pc": "-0.85",
+            "vwap": 140.76277835467866
+        },
+        {
+            "type": "CommercialBank",
+            "name": "MBL",
+            "value": "8040029",
+            "volume": "8040029",
+            "price": "182.00",
+            "pc": "-0.38",
+            "vwap": 181.86819127759682
+        },
+        {
+            "type": "Commercial Bank",
+            "name": "EBL",
+            "value": "7973915",
+            "volume": "7973915",
+            "price": "513.10",
+            "pc": "-0.19",
+            "vwap": 513.6177133655394
+        },
+        {
+            "type": "CommercialBank",
+            "name": "SBI",
+            "value": "4811562",
+            "volume": "4811562",
+            "price": "292.40",
+            "pc": "0.83",
+            "vwap": 289.2432822362489
+        },
+        {
+            "type": "Commercial Bank",
+            "name": "HBL",
+            "value": "1905844",
+            "volume": "1905844",
+            "price": "193.00",
+            "pc": "-0.52",
+            "vwap": 191.75410001006136
+        },
+        {
+            "type": "CommercialBank",
+            "name": "SCB",
+            "value": "3333499",
+            "volume": "3333499",
+            "price": "520.00",
+            "pc": "-0.76",
+            "vwap": 521.7559868524025
+        },
+        {
+            "type": "Commercial Bank",
+            "name": "NABIL",
+            "value": "20947008",
+            "volume": "20947008",
+            "price": "451.00",
+            "pc": "-1.31",
+            "vwap": 450.4732903225806
+        },
+        {
+            "type": "CommercialBank",
+            "name": "CZBIL",
+            "value": "4802929",
+            "volume": "4802929",
+            "price": "163.80",
+            "pc": "-0.55",
+            "vwap": 162.19535998919358
+        },
+        {
+            "type": "Commercial Bank",
+            "name": "PCBL",
+            "value": "9272510",
+            "volume": "9272510",
+            "price": "195.90",
+            "pc": "0.00",
+            "vwap": 195.37526337968816
+        },
+        {
+            "type": "CommercialBank",
+            "name": "ADBL",
+            "value": "4432653",
+            "volume": "4432653",
+            "price": "235.00",
+            "pc": "0.21",
+            "vwap": 234.65606140815245
+        },
+        {
+            "type": "Finance",
+            "name": "NFS",
+            "value": "61532768",
+            "volume": "61532768",
+            "price": "398.00",
+            "pc": "4.46",
+            "vwap": 397.5806885144216
+        },
+        {
+            "type": "Investment",
+            "name": "CIT",
+            "value": "16908068",
+            "volume": "16908068",
+            "price": "2114.00",
+            "pc": "-0.19",
+            "vwap": 2116.948541379742
+        },
+        {
+            "type": "Finance",
+            "name": "BFC",
+            "value": "16644211",
+            "volume": "16644211",
+            "price": "353.00",
+            "pc": "0.57",
+            "vwap": 357.83998022058347
+        },
+        {
+            "type": "Finance",
+            "name": "GFCL",
+            "value": "10848643",
+            "volume": "10848643",
+            "price": "476.00",
+            "pc": "0.85",
+            "vwap": 479.5192273691655
+        },
+        {
+            "type": "Finance",
+            "name": "PFL",
+            "value": "32863372",
+            "volume": "32863372",
+            "price": "412.00",
+            "pc": "3.78",
+            "vwap": 413.1159270898806
+        },
+        {
+            "type": "Finance",
+            "name": "SIFC",
+            "value": "10105285",
+            "volume": "10105285",
+            "price": "373.00",
+            "pc": "0.27",
+            "vwap": 376.3326754059288
+        },
+        {
+            "type": "Finance",
+            "name": "CFCL",
+            "value": "23410502",
+            "volume": "23410502",
+            "price": "359.00",
+            "pc": "2.51",
+            "vwap": 361.3512487265767
+        },
+        {
+            "type": "Finance",
+            "name": "JFL",
+            "value": "14156142",
+            "volume": "14156142",
+            "price": "394.00",
+            "pc": "1.03",
+            "vwap": 399.6990710675664
+        },
+        {
+            "type": "Finance",
+            "name": "SFCL",
+            "value": "17156996",
+            "volume": "17156996",
+            "price": "326.00",
+            "pc": "0.62",
+            "vwap": 328.527037377451
+        },
+        {
+            "type": "Finance",
+            "name": "GMFIL",
+            "value": "11641698",
+            "volume": "11641698",
+            "price": "366.00",
+            "pc": "0.85",
+            "vwap": 371.1092763787058
+        },
+        {
+            "type": "Finance",
+            "name": "ICFC",
+            "value": "35689048",
+            "volume": "35689048",
+            "price": "519.00",
+            "pc": "1.37",
+            "vwap": 521.5866947269964
+        },
+        {
+            "type": "Hotel& Tourism",
+            "name": "SHL",
+            "value": "14001087",
+            "volume": "14001087",
+            "price": "443.00",
+            "pc": "-0.78",
+            "vwap": 445.0865308198493
+        },
+        {
+            "type": "Hotel & Tourism",
+            "name": "TRH",
+            "value": "1971891",
+            "volume": "1971891",
+            "price": "771.00",
+            "pc": "-0.52",
+            "vwap": 766.6761275272162
+        },
+        {
+            "type": "Hotel& Tourism",
+            "name": "OHL",
+            "value": "1128536",
+            "volume": "1128536",
+            "price": "760.00",
+            "pc": "-3.06",
+            "vwap": 764.5907859078591
+        },
+        {
+            "type": "Manufacturing and Processing",
+            "name": "BNL",
+            "value": "4137084",
+            "volume": "4137084",
+            "price": "16615.00",
+            "pc": "-9.46",
+            "vwap": 17166.323651452283
+        },
+        {
+            "type": "Manufacturingand Processing",
+            "name": "BNT",
+            "value": "8057367",
+            "volume": "8057367",
+            "price": "13401.00",
+            "pc": "0.76",
+            "vwap": 13541.793277310924
+        },
+        {
+            "type": "Manufacturing and Processing",
+            "name": "UNL",
+            "value": "3133001",
+            "volume": "3133001",
+            "price": "39000.00",
+            "pc": "0.00",
+            "vwap": 39162.5125
+        },
+        {
+            "type": "Manufacturingand Processing",
+            "name": "HDL",
+            "value": "32792786",
+            "volume": "32792786",
+            "price": "1539.00",
+            "pc": "-1.03",
+            "vwap": 1541.3765452408932
+        },
+        {
+            "type": "Others",
+            "name": "NTC",
+            "value": "11912601",
+            "volume": "11912601",
+            "price": "854.00",
+            "pc": "-0.49",
+            "vwap": 854.0723401204474
+        },
+        {
+            "type": "Hydropower",
+            "name": "NHPC",
+            "value": "12752715",
+            "volume": "12752715",
+            "price": "155.40",
+            "pc": "-0.96",
+            "vwap": 155.93356810095008
+        },
+        {
+            "type": "Hydropower",
+            "name": "BPCL",
+            "value": "2545095",
+            "volume": "2545095",
+            "price": "307.00",
+            "pc": "0.29",
+            "vwap": 306.8597781528816
+        },
+        {
+            "type": "Hydropower",
+            "name": "CHCL",
+            "value": "4218555",
+            "volume": "4218555",
+            "price": "466.00",
+            "pc": "-0.21",
+            "vwap": 464.2406734896005
+        },
+        {
+            "type": "Hydropower",
+            "name": "AHPC",
+            "value": "5621024",
+            "volume": "5621024",
+            "price": "178.80",
+            "pc": "-1.60",
+            "vwap": 179.81522712731925
+        },
+        {
+            "type": "Trading",
+            "name": "STC",
+            "value": "27888049",
+            "volume": "27888049",
+            "price": "5247.00",
+            "pc": "0.81",
+            "vwap": 5228.35564304462
+        },
+        {
+            "type": "Trading",
+            "name": "BBC",
+            "value": "1712814",
+            "volume": "1712814",
+            "price": "3825.00",
+            "pc": "-0.49",
+            "vwap": 3806.2533333333336
+        },
+        {
+            "type": "Non-LifeInsurance",
+            "name": "NICL",
+            "value": "17414242",
+            "volume": "17414242",
+            "price": "842.00",
+            "pc": "-1.86",
+            "vwap": 848.4818748781914
+        },
+        {
+            "type": "Life Insurance",
+            "name": "NLICL",
+            "value": "4057773",
+            "volume": "4057773",
+            "price": "563.50",
+            "pc": "-0.25",
+            "vwap": 563.0321909254891
+        },
+        {
+            "type": "Non-LifeInsurance",
+            "name": "NIL",
+            "value": "4108560",
+            "volume": "4108560",
+            "price": "819.10",
+            "pc": "-0.72",
+            "vwap": 820.8911088911088
+        },
+        {
+            "type": "Life Insurance",
+            "name": "NLIC",
+            "value": "20282257",
+            "volume": "20282257",
+            "price": "606.00",
+            "pc": "-0.98",
+            "vwap": 610.9481595276824
+        },
+        {
+            "type": "LifeInsurance",
+            "name": "LICN",
+            "value": "1358486",
+            "volume": "1358486",
+            "price": "1356.20",
+            "pc": "0.09",
+            "vwap": 1354.4227318045862
+        },
+        {
+            "type": "Non-Life Insurance",
+            "name": "SICL",
+            "value": "13244722",
+            "volume": "13244722",
+            "price": "705.90",
+            "pc": "-1.27",
+            "vwap": 702.936100201677
+        },
+        {
+            "type": "LifeInsurance",
+            "name": "ALICL",
+            "value": "4135418",
+            "volume": "4135418",
+            "price": "572.60",
+            "pc": "-0.93",
+            "vwap": 575.0025027808676
+        },
+        {
+            "type": "Development Bank",
+            "name": "MDB",
+            "value": "10843895",
+            "volume": "10843895",
+            "price": "422.00",
+            "pc": "0.67",
+            "vwap": 422.1878528323924
+        },
+        {
+            "type": "DevelopmentBank",
+            "name": "GBBL",
+            "value": "7083394",
+            "volume": "7083394",
+            "price": "373.00",
+            "pc": "0.00",
+            "vwap": 372.69251815216245
+        },
+        {
+            "type": "Development Bank",
+            "name": "JBBL",
+            "value": "12224719",
+            "volume": "12224719",
+            "price": "300.00",
+            "pc": "-0.66",
+            "vwap": 300.36902626600164
+        },
+        {
+            "type": "DevelopmentBank",
+            "name": "KRBL",
+            "value": "41412950",
+            "volume": "41412950",
+            "price": "442.40",
+            "pc": "9.23",
+            "vwap": 409.34021943263815
+        },
+        {
+            "type": "Microfinance",
+            "name": "NUBL",
+            "value": "5058197",
+            "volume": "5058197",
+            "price": "658.10",
+            "pc": "-1.48",
+            "vwap": 663.0222833923187
+        },
+        {
+            "type": "Microfinance",
+            "name": "CBBL",
+            "value": "6050048",
+            "volume": "6050048",
+            "price": "866.00",
+            "pc": "-1.36",
+            "vwap": 870.5105035971224
+        },
+        {
+            "type": "Microfinance",
+            "name": "DDBL",
+            "value": "8238525",
+            "volume": "8238525",
+            "price": "799.00",
+            "pc": "-0.16",
+            "vwap": 800.0898319899
+        },
+        {
+            "type": "CommercialBank",
+            "name": "SANIMA",
+            "value": "8051210",
+            "volume": "8051210",
+            "price": "240.60",
+            "pc": "-0.33",
+            "vwap": 241.64745783060206
+        },
+        {
+            "type": "Development Bank",
+            "name": "NABBC",
+            "value": "7205969",
+            "volume": "7205969",
+            "price": "435.00",
+            "pc": "-0.53",
+            "vwap": 437.44120682328656
+        },
+        {
+            "type": "Microfinance",
+            "name": "SWBBL",
+            "value": "3326655",
+            "volume": "3326655",
+            "price": "765.00",
+            "pc": "-3.04",
+            "vwap": 768.6356284658041
+        },
+        {
+            "type": "DevelopmentBank",
+            "name": "EDBL",
+            "value": "9433679",
+            "volume": "9433679",
+            "price": "361.00",
+            "pc": "-2.43",
+            "vwap": 362.54098612659004
+        },
+        {
+            "type": "Development Bank",
+            "name": "SADBL",
+            "value": "6331925",
+            "volume": "6331925",
+            "price": "305.00",
+            "pc": "-0.94",
+            "vwap": 304.96195154842746
+        },
+        {
+            "type": "DevelopmentBank",
+            "name": "MNBBL",
+            "value": "10113698",
+            "volume": "10113698",
+            "price": "361.00",
+            "pc": "-1.90",
+            "vwap": 362.22549335625513
+        },
+        {
+            "type": "Development Bank",
+            "name": "CORBL",
+            "value": "3869655",
+            "volume": "3869655",
+            "price": "427.00",
+            "pc": "-2.29",
+            "vwap": 436.5093062605753
+        },
+        {
+            "type": "DevelopmentBank",
+            "name": "SINDU",
+            "value": "11556990",
+            "volume": "11556990",
+            "price": "358.00",
+            "pc": "1.42",
+            "vwap": 357.02780352177945
+        },
+        {
+            "type": "Finance",
+            "name": "MPFL",
+            "value": "17732245",
+            "volume": "17732245",
+            "price": "378.00",
+            "pc": "-0.53",
+            "vwap": 383.681949974035
+        },
+        {
+            "type": "Finance",
+            "name": "PROFL",
+            "value": "16652411",
+            "volume": "16652411",
+            "price": "327.00",
+            "pc": "0.93",
+            "vwap": 331.615640433328
+        },
+        {
+            "type": "Finance",
+            "name": "MFIL",
+            "value": "24498987",
+            "volume": "24498987",
+            "price": "524.00",
+            "pc": "0.00",
+            "vwap": 526.4863000451293
+        },
+        {
+            "type": "CommercialBank",
+            "name": "NBL",
+            "value": "7776645",
+            "volume": "7776645",
+            "price": "223.50",
+            "pc": "-0.67",
+            "vwap": 224.08497579529737
+        },
+        {
+            "type": "Non-Life Insurance",
+            "name": "NLG",
+            "value": "3464804",
+            "volume": "3464804",
+            "price": "780.00",
+            "pc": "-0.64",
+            "vwap": 779.3081421502474
+        },
+        {
+            "type": "Hydropower",
+            "name": "SJCL",
+            "value": "3745966",
+            "volume": "3745966",
+            "price": "282.00",
+            "pc": "0.00",
+            "vwap": 279.13308494783905
+        },
+        {
+            "type": "Microfinance",
+            "name": "FMDBL",
+            "value": "39037996",
+            "volume": "39037996",
+            "price": "627.40",
+            "pc": "-1.92",
+            "vwap": 643.5223447571007
+        },
+        {
+            "type": "CommercialBank",
+            "name": "GBIME",
+            "value": "8209398",
+            "volume": "8209398",
+            "price": "187.30",
+            "pc": "-1.42",
+            "vwap": 187.67770106533766
+        },
+        {
+            "type": "Microfinance",
+            "name": "SKBBL",
+            "value": "12639874",
+            "volume": "12639874",
+            "price": "855.00",
+            "pc": "-1.04",
+            "vwap": 859.7384029383758
+        },
+        {
+            "type": "Microfinance",
+            "name": "SLBBL",
+            "value": "5646901",
+            "volume": "5646901",
+            "price": "664.00",
+            "pc": "-3.21",
+            "vwap": 672.4102167182663
+        },
+        {
+            "type": "Microfinance",
+            "name": "KMCDB",
+            "value": "6278465",
+            "volume": "6278465",
+            "price": "812.00",
+            "pc": "-1.22",
+            "vwap": 821.0363541258009
+        },
+        {
+            "type": "Microfinance",
+            "name": "JSLBB",
+            "value": "4554653",
+            "volume": "4554653",
+            "price": "1060.00",
+            "pc": "0.43",
+            "vwap": 1066.6634660421546
+        },
+        {
+            "type": "Microfinance",
+            "name": "MLBBL",
+            "value": "2984315",
+            "volume": "2984315",
+            "price": "928.00",
+            "pc": "-1.69",
+            "vwap": 921.6537986411365
+        },
+        {
+            "type": "Microfinance",
+            "name": "LLBS",
+            "value": "3586235",
+            "volume": "3586235",
+            "price": "849.00",
+            "pc": "-5.14",
+            "vwap": 843.224782506466
+        },
+        {
+            "type": "Microfinance",
+            "name": "HLBSL",
+            "value": "12680616",
+            "volume": "12680616",
+            "price": "698.00",
+            "pc": "-3.86",
+            "vwap": 698.5410675921336
+        },
+        {
+            "type": "Hydropower",
+            "name": "SHPC",
+            "value": "8397827",
+            "volume": "8397827",
+            "price": "345.00",
+            "pc": "-0.29",
+            "vwap": 343.7787375143278
+        },
+        {
+            "type": "DevelopmentBank",
+            "name": "SHINE",
+            "value": "18585892",
+            "volume": "18585892",
+            "price": "376.80",
+            "pc": "1.02",
+            "vwap": 377.2100178600422
+        },
+        {
+            "type": "Commercial Bank",
+            "name": "NICA",
+            "value": "11746842",
+            "volume": "11746842",
+            "price": "414.10",
+            "pc": "-0.70",
+            "vwap": 414.9654514624841
+        },
+        {
+            "type": "Microfinance",
+            "name": "VLBS",
+            "value": "5557663",
+            "volume": "5557663",
+            "price": "685.10",
+            "pc": "-2.14",
+            "vwap": 696.9730373714573
+        },
+        {
+            "type": "Microfinance",
+            "name": "FOWAD",
+            "value": "2548057",
+            "volume": "2548057",
+            "price": "1130.10",
+            "pc": "-1.64",
+            "vwap": 1139.5603756708408
+        },
+        {
+            "type": "Hydropower",
+            "name": "RHPL",
+            "value": "3611050",
+            "volume": "3611050",
+            "price": "280.00",
+            "pc": "-0.39",
+            "vwap": 279.38491295938104
+        },
+        {
+            "type": "Microfinance",
+            "name": "MERO",
+            "value": "8514794",
+            "volume": "8514794",
+            "price": "616.00",
+            "pc": "-2.22",
+            "vwap": 626.9175379178324
+        },
+        {
+            "type": "Microfinance",
+            "name": "GILB",
+            "value": "7303864",
+            "volume": "7303864",
+            "price": "928.20",
+            "pc": "-1.26",
+            "vwap": 932.9242559713884
+        },
+        {
+            "type": "DevelopmentBank",
+            "name": "GRDBL",
+            "value": "6357300",
+            "volume": "6357300",
+            "price": "376.30",
+            "pc": "0.19",
+            "vwap": 378.5459092533047
+        },
+        {
+            "type": "Microfinance",
+            "name": "RSDC",
+            "value": "9344914",
+            "volume": "9344914",
+            "price": "604.00",
+            "pc": "-1.31",
+            "vwap": 610.1406372420997
+        },
+        {
+            "type": "Finance",
+            "name": "RLFL",
+            "value": "13757362",
+            "volume": "13757362",
+            "price": "371.00",
+            "pc": "1.39",
+            "vwap": 373.364507286889
+        },
+        {
+            "type": "Hydropower",
+            "name": "BARUN",
+            "value": "3823998",
+            "volume": "3823998",
+            "price": "242.00",
+            "pc": "-1.22",
+            "vwap": 242.19380581417442
+        },
+        {
+            "type": "Hydropower",
+            "name": "UPPER",
+            "value": "54972080",
+            "volume": "54972080",
+            "price": "179.50",
+            "pc": "-0.33",
+            "vwap": 179.3595244232294
+        },
+        {
+            "type": "Hydropower",
+            "name": "MBJC",
+            "value": "4046969",
+            "volume": "4046969",
+            "price": "315.00",
+            "pc": "-1.56",
+            "vwap": 314.5475672314628
+        },
+        {
+            "type": "Microfinance",
+            "name": "NMBMF",
+            "value": "9782654",
+            "volume": "9782654",
+            "price": "597.00",
+            "pc": "-1.81",
+            "vwap": 599.4640602978124
+        },
+        {
+            "type": "Microfinance",
+            "name": "GBLBS",
+            "value": "9332949",
+            "volume": "9332949",
+            "price": "641.00",
+            "pc": "-1.23",
+            "vwap": 644.9415382489116
+        },
+        {
+            "type": "CommercialBank",
+            "name": "PRVU",
+            "value": "11146439",
+            "volume": "11146439",
+            "price": "143.00",
+            "pc": "0.14",
+            "vwap": 142.72008962868117
+        },
+        {
+            "type": "Investment",
+            "name": "HIDCL",
+            "value": "7608647",
+            "volume": "7608647",
+            "price": "173.10",
+            "pc": "-1.59",
+            "vwap": 174.1986125738358
+        },
+        {
+            "type": "Hydropower",
+            "name": "AKPL",
+            "value": "11810004",
+            "volume": "11810004",
+            "price": "181.00",
+            "pc": "-0.06",
+            "vwap": 180.31916940224446
+        },
+        {
+            "type": "Investment",
+            "name": "CHDC",
+            "value": "7919369",
+            "volume": "7919369",
+            "price": "940.00",
+            "pc": "-1.56",
+            "vwap": 943.0065491783758
+        },
+        {
+            "type": "Non-LifeInsurance",
+            "name": "RBCL",
+            "value": "1040790",
+            "volume": "1040790",
+            "price": "13949.00",
+            "pc": "0.35",
+            "vwap": 13877.2
+        },
+        {
+            "type": "Hydropower",
+            "name": "API",
+            "value": "11727202",
+            "volume": "11727202",
+            "price": "181.00",
+            "pc": "-0.55",
+            "vwap": 181.08432544278193
+        },
+        {
+            "type": "Others",
+            "name": "NRIC",
+            "value": "14521602",
+            "volume": "14521602",
+            "price": "739.00",
+            "pc": "-1.06",
+            "vwap": 740.1428134556575
+        },
+        {
+            "type": "Hydropower",
+            "name": "DORDI",
+            "value": "21937335",
+            "volume": "21937335",
+            "price": "452.80",
+            "pc": "-0.04",
+            "vwap": 447.4997960099547
+        },
+        {
+            "type": "Microfinance",
+            "name": "SMATA",
+            "value": "4461803",
+            "volume": "4461803",
+            "price": "722.00",
+            "pc": "-3.60",
+            "vwap": 735.5428618529509
+        },
+        {
+            "type": "Hydropower",
+            "name": "TVCL",
+            "value": "6057531",
+            "volume": "6057531",
+            "price": "495.00",
+            "pc": "-1.77",
+            "vwap": 498.4391508269563
+        },
+        {
+            "type": "Hydropower",
+            "name": "MHL",
+            "value": "1306951",
+            "volume": "1306951",
+            "price": "390.00",
+            "pc": "-0.51",
+            "vwap": 387.8192878338279
+        },
+        {
+            "type": "Hydropower",
+            "name": "DHPL",
+            "value": "1027796",
+            "volume": "1027796",
+            "price": "198.00",
+            "pc": "-1.49",
+            "vwap": 198.607922705314
+        },
+        {
+            "type": "Hydropower",
+            "name": "NYADI",
+            "value": "1473489",
+            "volume": "1473489",
+            "price": "291.20",
+            "pc": "-0.95",
+            "vwap": 292.4749900754268
+        },
+        {
+            "type": "Non-LifeInsurance",
+            "name": "PRIN",
+            "value": "4311448",
+            "volume": "4311448",
+            "price": "770.00",
+            "pc": "-1.41",
+            "vwap": 774.0481149012568
+        },
+        {
+            "type": "Hydropower",
+            "name": "NGPL",
+            "value": "22638439",
+            "volume": "22638439",
+            "price": "300.00",
+            "pc": "-1.61",
+            "vwap": 302.61651672927053
+        },
+        {
+            "type": "Hydropower",
+            "name": "RADHI",
+            "value": "4850713",
+            "volume": "4850713",
+            "price": "243.00",
+            "pc": "-0.82",
+            "vwap": 243.13132173825872
+        },
+        {
+            "type": "Hydropower",
+            "name": "KKHC",
+            "value": "1221369",
+            "volume": "1221369",
+            "price": "242.90",
+            "pc": "-1.26",
+            "vwap": 241.80736487824194
+        },
+        {
+            "type": "Hydropower",
+            "name": "GHL",
+            "value": "18832229",
+            "volume": "18832229",
+            "price": "155.10",
+            "pc": "-2.45",
+            "vwap": 156.62069510399948
+        },
+        {
+            "type": "Hydropower",
+            "name": "HURJA",
+            "value": "9351892",
+            "volume": "9351892",
+            "price": "290.00",
+            "pc": "-0.68",
+            "vwap": 293.5768953068592
+        },
+        {
+            "type": "Hydropower",
+            "name": "UMHL",
+            "value": "8822878",
+            "volume": "8822878",
+            "price": "252.90",
+            "pc": "-1.21",
+            "vwap": 251.57907043056744
+        },
+        {
+            "type": "Hydropower",
+            "name": "AKJCL",
+            "value": "7594553",
+            "volume": "7594553",
+            "price": "217.00",
+            "pc": "-2.03",
+            "vwap": 218.27191469793644
+        },
+        {
+            "type": "Microfinance",
+            "name": "MSLB",
+            "value": "1737060",
+            "volume": "1737060",
+            "price": "1069.00",
+            "pc": "-1.02",
+            "vwap": 1046.421686746988
+        },
+        {
+            "type": "Finance",
+            "name": "GUFL",
+            "value": "285310580",
+            "volume": "285310580",
+            "price": "855.00",
+            "pc": "-7.61",
+            "vwap": 871.0496782151013
+        },
+        {
+            "type": "Microfinance",
+            "name": "NADEP",
+            "value": "17603227",
+            "volume": "17603227",
+            "price": "674.90",
+            "pc": "-1.90",
+            "vwap": 675.877404492225
+        },
+        {
+            "type": "Microfinance",
+            "name": "SMB",
+            "value": "1903753",
+            "volume": "1903753",
+            "price": "1196.30",
+            "pc": "-1.17",
+            "vwap": 1218.791933418694
+        },
+        {
+            "type": "Hydropower",
+            "name": "UPCL",
+            "value": "7381237",
+            "volume": "7381237",
+            "price": "213.00",
+            "pc": "-0.47",
+            "vwap": 212.82002710261511
+        },
+        {
+            "type": "Hydropower",
+            "name": "SPL",
+            "value": "2270565",
+            "volume": "2270565",
+            "price": "654.00",
+            "pc": "0.00",
+            "vwap": 653.5880829015545
+        },
+        {
+            "type": "Hydropower",
+            "name": "NHDL",
+            "value": "1803614",
+            "volume": "1803614",
+            "price": "422.50",
+            "pc": "-1.74",
+            "vwap": 423.1848897231347
+        },
+        {
+            "type": "Hydropower",
+            "name": "SPDL",
+            "value": "7178392",
+            "volume": "7178392",
+            "price": "245.00",
+            "pc": "-1.25",
+            "vwap": 246.41763070268786
+        },
+        {
+            "type": "Hydropower",
+            "name": "HPPL",
+            "value": "1452130",
+            "volume": "1452130",
+            "price": "270.80",
+            "pc": "-0.44",
+            "vwap": 269.7622143785993
+        },
+        {
+            "type": "Hydropower",
+            "name": "CHL",
+            "value": "1885393",
+            "volume": "1885393",
+            "price": "288.10",
+            "pc": "-1.61",
+            "vwap": 288.33047866646274
+        },
+        {
+            "type": "DevelopmentBank",
+            "name": "MLBL",
+            "value": "10595443",
+            "volume": "10595443",
+            "price": "331.00",
+            "pc": "-0.90",
+            "vwap": 331.36647380766226
+        },
+        {
+            "type": "Hydropower",
+            "name": "SAHAS",
+            "value": "6922966",
+            "volume": "6922966",
+            "price": "527.10",
+            "pc": "-0.55",
+            "vwap": 528.3093711843712
+        },
+        {
+            "type": "DevelopmentBank",
+            "name": "KSBBL",
+            "value": "24762411",
+            "volume": "24762411",
+            "price": "362.00",
+            "pc": "-0.55",
+            "vwap": 365.275788821525
+        },
+        {
+            "type": "Microfinance",
+            "name": "GMFBS",
+            "value": "3405148",
+            "volume": "3405148",
+            "price": "1033.00",
+            "pc": "2.28",
+            "vwap": 1051.620753551575
+        },
+        {
+            "type": "Hydropower",
+            "name": "JOSHI",
+            "value": "14473167",
+            "volume": "14473167",
+            "price": "335.00",
+            "pc": "-0.89",
+            "vwap": 335.99923389437026
+        },
+        {
+            "type": "DevelopmentBank",
+            "name": "LBBL",
+            "value": "8275578",
+            "volume": "8275578",
+            "price": "389.00",
+            "pc": "0.26",
+            "vwap": 387.63305072837136
+        },
+        {
+            "type": "Microfinance",
+            "name": "ALBSL",
+            "value": "24832947",
+            "volume": "24832947",
+            "price": "755.00",
+            "pc": "1.07",
+            "vwap": 760.1844981173662
+        },
+        {
+            "type": "Hydropower",
+            "name": "BHPL",
+            "value": "1087721",
+            "volume": "1087721",
+            "price": "484.00",
+            "pc": "-1.22",
+            "vwap": 485.58973214285714
+        },
+        {
+            "type": "MutualFund",
+            "name": "LEMF",
+            "value": "31350",
+            "volume": "31350",
+            "price": "9.50",
+            "pc": "0.42",
+            "vwap": 9.5
+        },
+        {
+            "type": "Microfinance",
+            "name": "ILBS",
+            "value": "12135684",
+            "volume": "12135684",
+            "price": "885.00",
+            "pc": "-3.80",
+            "vwap": 897.1452650255045
+        },
+        {
+            "type": "Hydropower",
+            "name": "MHNL",
+            "value": "5012322",
+            "volume": "5012322",
+            "price": "241.00",
+            "pc": "-2.98",
+            "vwap": 244.0748928710557
+        },
+        {
+            "type": "Hydropower",
+            "name": "PMHPL",
+            "value": "1687487",
+            "volume": "1687487",
+            "price": "243.00",
+            "pc": "-1.74",
+            "vwap": 243.99754193175247
+        },
+        {
+            "type": "Hydropower",
+            "name": "UNHPL",
+            "value": "7879585",
+            "volume": "7879585",
+            "price": "237.40",
+            "pc": "0.94",
+            "vwap": 235.16235413495687
+        },
+        {
+            "type": "MutualFund",
+            "name": "SEF",
+            "value": "72474",
+            "volume": "72474",
+            "price": "8.05",
+            "pc": "0.00",
+            "vwap": 8.097653631284917
+        },
+        {
+            "type": "Mutual Fund",
+            "name": "GIBF1",
+            "value": "14259",
+            "volume": "14259",
+            "price": "8.32",
+            "pc": "-2.80",
+            "vwap": 8.387647058823529
+        },
+        {
+            "type": "Mutual Fund",
+            "name": "CMF1",
+            "value": "145342",
+            "volume": "145342",
+            "price": "8.80",
+            "pc": "-0.90",
+            "vwap": 8.758707966734965
+        },
+        {
+            "type": "MutualFund",
+            "name": "SAEF",
+            "value": "55000",
+            "volume": "55000",
+            "price": "9.99",
+            "pc": "-1.96",
+            "vwap": 10
+        },
+        {
+            "type": "Mutual Fund",
+            "name": "NICGF",
+            "value": "2117",
+            "volume": "2117",
+            "price": "9.78",
+            "pc": "-0.41",
+            "vwap": 9.711009174311927
+        },
+        {
+            "type": "Hydropower",
+            "name": "KPCL",
+            "value": "1102780",
+            "volume": "1102780",
+            "price": "410.00",
+            "pc": "1.23",
+            "vwap": 407.53141167775317
+        },
+        {
+            "type": "Microfinance",
+            "name": "SMFBS",
+            "value": "2320872",
+            "volume": "2320872",
+            "price": "1112.00",
+            "pc": "-1.33",
+            "vwap": 1090.1230624706434
+        },
+        {
+            "type": "Microfinance",
+            "name": "GLBSL",
+            "value": "19903953",
+            "volume": "19903953",
+            "price": "1424.90",
+            "pc": "-5.45",
+            "vwap": 1404.8526962168266
+        },
+        {
+            "type": "Hydropower",
+            "name": "PPCL",
+            "value": "5504124",
+            "volume": "5504124",
+            "price": "250.00",
+            "pc": "-1.19",
+            "vwap": 249.46174764321972
+        },
+        {
+            "type": "Hydropower",
+            "name": "RHGCL",
+            "value": "3821414",
+            "volume": "3821414",
+            "price": "290.00",
+            "pc": "-1.53",
+            "vwap": 290.116459155785
+        },
+        {
+            "type": "Hydropower",
+            "name": "HDHPC",
+            "value": "10385166",
+            "volume": "10385166",
+            "price": "138.80",
+            "pc": "-0.86",
+            "vwap": 139.9014710636922
+        },
+        {
+            "type": "Hydropower",
+            "name": "MKHC",
+            "value": "4674334",
+            "volume": "4674334",
+            "price": "286.00",
+            "pc": "0.21",
+            "vwap": 284.96823751752726
+        },
+        {
+            "type":"LifeInsurance","name":"ILI","value":"10220942","volume":"10220942","price":"538.60","pc":"-0.54","vwap":540.304593751652},
+            {"type":"Life Insurance","name":"RNLI","value":"15948015","volume":"15948015","price":"437.60","pc":"-1.55","vwap":441.39423209985887},
+            {"type":"Microfinance","name":"SABSL","value":"2406307","volume":"2406307","price":"729.00","pc":"-0.21","vwap":717.8720167064439},{"type":"Hydropower","name":"SSHL","value":"4072282","volume":"4072282","price":"164.50","pc":"-1.50","vwap":165.26447790268253},{"type":"Hydropower","name":"RURU","value":"2086554","volume":"2086554","price":"680.00","pc":"-1.31","vwap":682.3263570961412},{"type":"Hydropower","name":"USHEC","value":"3858380","volume":"3858380","price":"350.50","pc":"-3.18","vwap":353.20212376418897},{"type":"Hydropower","name":"EHPL","value":"2865241","volume":"2865241","price":"439.90","pc":"-1.37","vwap":435.7118309002433},
+            {"type":"Manufacturingand Processing","name":"SHIVM","value":"145888744","volume":"145888744","price":"544.00","pc":"0.93","vwap":545.0219258429065},{"type":"Hydropower","name":"USHL","value":"1449807","volume":"1449807","price":"477.00","pc":"-0.63","vwap":471.4819512195122},{"type":"Hydropower","name":"GLH","value":"27296824","volume":"27296824","price":"225.00","pc":"-0.40","vwap":226.7799646082398},
+            {"type":"LifeInsurance","name":"SNLI","value":"28804612","volume":"28804612","price":"609.00","pc":"-1.02","vwap":611.7447224228008},{"type":"Life Insurance","name":"CLI","value":"11714735","volume":"11714735","price":"458.20","pc":"-1.46","vwap":459.527517357706},{"type":"Hydropower","name":"BHDC","value":"5067924","volume":"5067924","price":"464.00","pc":"-1.90","vwap":466.1874712537945},{"type":"Hydropower","name":"RFPL","value":"9417337","volume":"9417337","price":"381.00","pc":"0.26","vwap":384.3811020408163},{"type":"Microfinance","name":"SDLBSL","value":"3862617","volume":"3862617","price":"726.00","pc":"-1.24","vwap":723.878748125937},{"type":"Microfinance","name":"MKLB","value":"3726364","volume":"3726364","price":"849.00","pc":"-2.41","vwap":842.3065099457505},{"type":"Microfinance","name":"NICLBSL","value":"12750960","volume":"12750960","price":"617.00","pc":"-1.91","vwap":621.8160538379011},{"type":"Hydropower","name":"BNHC","value":"44916198","volume":"44916198","price":"544.50","pc":"-10.00","vwap":546.844881113262},{"type":"Hydropower","name":"TAMOR","value":"9787317","volume":"9787317","price":"385.00","pc":"1.56","vwap":380.355860407275},{"type":"Hydropower","name":"SHEL","value":"1995680","volume":"1995680","price":"203.10","pc":"-1.41","vwap":203.8488253319714},{"type":"Hydropower","name":"SPHL","value":"1444666","volume":"1444666","price":"465.00","pc":"-0.85","vwap":463.9261400128452},{"type":"Hydropower","name":"MEN","value":"9946740","volume":"9946740","price":"555.00","pc":"-0.89","vwap":554.1668059501922},{"type":"Hydropower","name":"BEDC","value":"1603124","volume":"1603124","price":"350.00","pc":"0.95","vwap":347.8246908223042},{"type":"Microfinance","name":"MLBS","value":"4970135","volume":"4970135","price":"954.00","pc":"-4.46","vwap":944.5334473584188},{"type":"Hydropower","name":"TSHL","value":"5192717","volume":"5192717","price":"490.00","pc":"0.41","vwap":489.97140969994337},
+            {"type":"Hotel& Tourism","name":"CGH","value":"8937535","volume":"8937535","price":"822.00","pc":"-1.32","vwap":824.1917189229067},{"type":"Hydropower","name":"LEC","value":"3460870","volume":"3460870","price":"185.00","pc":"-1.60","vwap":186.21845574387947},{"type":"Microfinance","name":"MLBSL","value":"3098975","volume":"3098975","price":"1730.00","pc":"-1.22","vwap":1712.1408839779006},{"type":"Investment","name":"ENL","value":"1151877","volume":"1151877","price":"762.20","pc":"-1.27","vwap":771.5184192900201},{"type":"MutualFund","name":"NICBF","value":"88681","volume":"88681","price":"8.47","pc":"-1.40","vwap":8.453860819828408},{"type":"Mutual Fund","name":"SIGS2","value":"20000","volume":"20000","price":"8.00","pc":"-1.72","vwap":8},{"type":"Mutual Fund","name":"CMF2","value":"8703","volume":"8703","price":"7.93","pc":"-0.38","vwap":7.911818181818182},{"type":"MutualFund","name":"NBF2","value":"113819","volume":"113819","price":"7.93","pc":"-0.88","vwap":7.8767474048442905},{"type":"Investment","name":"NIFRA","value":"13563193","volume":"13563193","price":"206.90","pc":"-0.96","vwap":207.37241801085543},{"type":"MutualFund","name":"NMB50","value":"6464","volume":"6464","price":"9.20","pc":"-1.18","vwap":9.234285714285715},{"type":"Microfinance","name":"JBLB","value":"6459532","volume":"6459532","price":"1376.00","pc":"-1.71","vwap":1377.2989339019189},{"type":"Microfinance","name":"SAMAJ","value":"1320184","volume":"1320184","price":"1940.00","pc":"-4.86","vwap":1941.4470588235295},{"type":"Microfinance","name":"SHLB","value":"3570827","volume":"3570827","price":"1079.20","pc":"0.86","vwap":1055.2089243498817},{"type":"Microfinance","name":"ULBSL","value":"3371924","volume":"3371924","price":"1260.00","pc":"-2.70","vwap":1275.7941732879303},{"type":"MutualFund","name":"LUK","value":"21280","volume":"21280","price":"8.10","pc":"0.00","vwap":8.184615384615384},{"type":"Hydropower","name":"UMRH","value":"9046095","volume":"9046095","price":"349.00","pc":"-2.32","vwap":353.30788158100296},{"type":"Hydropower","name":"UHEWA","value":"1704163","volume":"1704163","price":"343.00","pc":"-1.12","vwap":341.51563126252506},{"type":"Hydropower","name":"HHL","value":"3686781","volume":"3686781","price":"334.00","pc":"-1.21","vwap":333.4341141358415},{"type":"Microfinance","name":"NESDO","value":"1464451","volume":"1464451","price":"1766.00","pc":"-2.81","vwap":1775.0921212121211},{"type":"Hydropower","name":"MMKJL","value":"5315037","volume":"5315037","price":"419.50","pc":"-1.76","vwap":421.3267538644471},{"type":"Microfinance","name":"USLB","value":"38212599","volume":"38212599","price":"1705.00","pc":"4.61","vwap":1665.8354331051921},{"type":"Hydropower","name":"TPC","value":"1778375","volume":"1778375","price":"515.00","pc":"-0.77","vwap":516.9694767441861},{"type":"Hydropower","name":"BHL","value":"1191858","volume":"1191858","price":"343.00","pc":"-0.84","vwap":341.5065902578797},{"type":"Microfinance","name":"UNLB","value":"4887011","volume":"4887011","price":"1600.00","pc":"-3.17","vwap":1595.498204374796},{"type":"Investment","name":"NRN","value":"22853659","volume":"22853659","price":"537.20","pc":"-1.61","vwap":543.5652887451241},{"type":"Hydropower","name":"PPL","value":"47216830","volume":"47216830","price":"414.00","pc":"0.85","vwap":408.81434149804755},{"type":"Microfinance","name":"KLBSL","value":"5157582","volume":"5157582","price":"1020.00","pc":"9.91","vwap":914.4648936170213},{"type":"Microfinance","name":"DLBS","value":"11823686","volume":"11823686","price":"1408.00","pc":"10.00","vwap":1231.7622669028024},{"type":"Microfinance","name":"ANLB","value":"4094545","volume":"4094545","price":"2129.00","pc":"-3.45","vwap":2091.1874361593464},
+{"type":"DevelopmentBank","name":"SAPDBL","value":"18336338","volume":"18336338","price":"303.00","pc":"-3.60","vwap":307.43487081468066},{"type":"Mutual Fund","name":"SLCF","value":"28355","volume":"28355","price":"7.89","pc":"-0.13","vwap":7.876388888888889},{"type":"Hydropower","name":"SPC","value":"3032813","volume":"3032813","price":"540.00","pc":"-1.64","vwap":546.1575724833424},{"type":"Hydropower","name":"SGHC","value":"1786890","volume":"1786890","price":"305.90","pc":"-1.29","vwap":304.77400648132357},{"type":"Hydropower","name":"AHL","value":"2646186","volume":"2646186","price":"437.00","pc":"-0.66","vwap":433.729880347484},{"type":"Hydropower","name":"PHCL","value":"56245079","volume":"56245079","price":"337.00","pc":"0.60","vwap":331.7882681201739},{"type":"Investment","name":"HATHY","value":"22554127","volume":"22554127","price":"860.00","pc":"-1.15","vwap":863.0515822905904},{"type":"Microfinance","name":"CYCL","value":"12200757","volume":"12200757","price":"1349.90","pc":"-1.75","vwap":1361.3877482704754},{"type":"Microfinance","name":"AVYAN","value":"5675278","volume":"5675278","price":"681.00","pc":"-2.99","vwap":690.3391314925192},{"type":"Microfinance","name":"ACLBSL","value":"2939142","volume":"2939142","price":"747.00","pc":"-2.35","vwap":750.7386973180077},{"type":"Hydropower","name":"SMH","value":"3159882","volume":"3159882","price":"675.90","pc":"-1.33","vwap":665.9393045310853},{"type":"Microfinance","name":"JALPA","value":"1760025","volume":"1760025","price":"1241.00","pc":"-1.90","vwap":1256.2633832976446},
+{"type":"MutualFund","name":"KEF","value":"35694","volume":"35694","price":"8.01","pc":"-0.25","vwap":8.021123595505617},{"type":"Mutual Fund","name":"NICSF","value":"186224","volume":"186224","price":"8.83","pc":"-2.97","vwap":8.855159296243462},{"type":"Manufacturingand Processing","name":"SARBTM","value":"5466903","volume":"5466903","price":"739.90","pc":"9.99","vwap":739.2701825557809},{"type":"Mutual Fund","name":"NIBSF2","value":"201063","volume":"201063","price":"7.85","pc":"1.68","vwap":7.733192307692308},{"type":"MutualFund","name":"SBCF","value":"25145","volume":"25145","price":"7.61","pc":"0.00","vwap":7.61969696969697},{"type":"Mutual Fund","name":"PSF","value":"698007","volume":"698007","price":"8.65","pc":"0.00","vwap":8.649405204460967},{"type":"Hydropower","name":"MHCL","value":"15812101","volume":"15812101","price":"440.00","pc":"-2.11","vwap":444.35985274280574},{"type":"MutualFund","name":"RMF1","value":"258396","volume":"258396","price":"7.90","pc":"-1.25","vwap":8.002353669866832},{"type":"Hydropower","name":"SIKLES","value":"217573","volume":"217573","price":"473.20","pc":"-1.83","vwap":472.98478260869564},{"type":"Hydropower","name":"GVL","value":"3767241","volume":"3767241","price":"427.50","pc":"-0.35","vwap":428.4363698396452},{"type":"MutualFund","name":"MMF1","value":"188561","volume":"188561","price":"7.23","pc":"-0.28","vwap":7.2364815596576735},{"type":"Mutual Fund","name":"KDBY","value":"43944","volume":"43944","price":"8.71","pc":"1.63","vwap":8.549416342412451},{"type":"Hydropower","name":"MAKAR","value":"1600592","volume":"1600592","price":"376.00","pc":"0.00","vwap":378.83834319526625},{"type":"MutualFund","name":"SIGS3","value":"6652","volume":"6652","price":"8.33","pc":"0.24","vwap":8.315},{"type":"Mutual Fund","name":"SAGF","value":"17635","volume":"17635","price":"8.55","pc":"-1.27","vwap":8.602439024390243},{"type":"Mutual Fund","name":"NSIF2","value":"18270","volume":"18270","price":"9.15","pc":"0.00","vwap":9.135},{"type":"MutualFund","name":"NICFC","value":"21020","volume":"21020","price":"8.76","pc":"0.46","vwap":8.758333333333333},{"type":"Mutual Fund","name":"NBF3","value":"71095","volume":"71095","price":"7.37","pc":"-0.41","vwap":7.444502617801047},{"type":"Mutual Fund","name":"PRSF","value":"6893","volume":"6893","price":"8.62","pc":"-0.92","vwap":8.61625},{"type":"Others","name":"HRL","value":"95976407","volume":"95976407","price":"606.50","pc":"-1.24","vwap":610.1022617473556},{"type":"MutualFund","name":"NIBLGF","value":"13537","volume":"13537","price":"7.98","pc":"-0.13","vwap":7.962941176470588},{"type":"Mutual Fund","name":"SFEF","value":"46926","volume":"46926","price":"7.96","pc":"-2.33","vwap":7.9576055621502455},{"type":"Mutual Fund","name":"C30MF","value":"9118","volume":"9118","price":"9.10","pc":"0.00","vwap":9.118},{"type":"MutualFund","name":"NICGF2","value":"33861","volume":"33861","price":"8.38","pc":"1.33","vwap":8.258780487804877},{"type":"Hydropower","name":"BGWT","value":"14930203","volume":"14930203","price":"632.40","pc":"3.00","vwap":624.4595340666694},{"type":"Microfinance","name":"WNLB","value":"729891","volume":"729891","price":"1100.00","pc":"-1.79","vwap":1092.6511976047905},{"type":"Hotel& Tourism","name":"KDL","value":"3841113","volume":"3841113","price":"790.00","pc":"-2.23","vwap":796.5808793031937},{"type":"Hydropower","name":"MEL","value":"8928302","volume":"8928302","price":"215.20","pc":"-0.88","vwap":216.22876655929863},{"type":"Others","name":"MKCL","value":"6354839","volume":"6354839","price":"940.10","pc":"0.33","vwap":939.2313035767071},{"type":"Microfinance","name":"SWMF","value":"7244136","volume":"7244136","price":"740.00","pc":"-2.76","vwap":743.5221184440111},{"type":"Hotel& Tourism","name":"CITY","value":"3845821","volume":"3845821","price":"605.00","pc":"-0.17","vwap":600.8156538040931},{"type":"Hydropower","name":"MSHL","value":"2806374","volume":"2806374","price":"615.00","pc":"-3.91","vwap":614.8935144609991},{"type":"MutualFund","name":"LVF2","value":"10453","volume":"10453","price":"8.16","pc":"3.03","vwap":8.04076923076923},{"type":"Non-Life Insurance","name":"HEI","value":"8021649","volume":"8021649","price":"592.00","pc":"-0.50","vwap":592.7034875129305},{"type":"Hydropower","name":"IHL","value":"2183670","volume":"2183670","price":"350.00","pc":"-2.51","vwap":352.3184898354308},{"type":"CommercialBank","name":"NIMB","value":"10411140","volume":"10411140","price":"163.00","pc":"-1.21","vwap":162.9413882150403},{"type":"Manufacturing and Processing","name":"SONA","value":"127719122","volume":"127719122","price":"495.10","pc":"0.43","vwap":499.5448134516625},{"type":"Hydropower","name":"SMHL","value":"18060316","volume":"18060316","price":"436.60","pc":"-3.41","vwap":439.28480042808843},{"type":"Manufacturingand Processing","name":"GCIL","value":"45780151","volume":"45780151","price":"530.20","pc":"0.40","vwap":534.9460849040069},{"type":"Hydropower","name":"MKHL","value":"3129057","volume":"3129057","price":"370.00","pc":"-2.30","vwap":371.79859790874525},{"type":"Hydropower","name":"SMJC","value":"12551240","volume":"12551240","price":"357.00","pc":"-2.46","vwap":361.2075515137562},{"type":"Hydropower","name":"RAWA","value":"1237379","volume":"1237379","price":"465.30","pc":"-2.25","vwap":467.2881419939577},{"type":"Hydropower","name":"RIDI","value":"5091485","volume":"5091485","price":"188.20","pc":"-0.42","vwap":187.8430178933776},{"type":"Others","name":"NWCL","value":"4460499","volume":"4460499","price":"750.00","pc":"-1.45","vwap":747.5279034690799},{"type":"Hydropower","name":"DOLTI","value":"7404832","volume":"7404832","price":"373.00","pc":"-1.84","vwap":373.71716967800546},{"type":"Hydropower","name":"MCHL","value":"3239970","volume":"3239970","price":"326.00","pc":"-1.21","vwap":328.2976998682744},{"type":"MutualFund","name":"RMF2","value":"71430","volume":"71430","price":"8.70","pc":"3.57","vwap":8.606024096385543},{"type":"Hydropower","name":"ULHC","value":"5270837","volume":"5270837","price":"316.80","pc":"-2.22","vwap":316.83319307525846},{"type":"Non-LifeInsurance","name":"SGIC","value":"14417705","volume":"14417705","price":"530.00","pc":"-1.67","vwap":535.0393364753033},{"type":"Others","name":"NRM","value":"14893564","volume":"14893564","price":"383.30","pc":"-2.69","vwap":386.9061152387385},{"type":"Hydropower","name":"CKHL","value":"6938521","volume":"6938521","price":"613.30","pc":"-0.60","vwap":604.0324714895099},{"type":"LifeInsurance","name":"SJLIC","value":"19269193","volume":"19269193","price":"522.00","pc":"-0.76","vwap":522.7103135850695},{"type":"Hydropower","name":"MANDU","value":"2447492","volume":"2447492","price":"690.00","pc":"-2.27","vwap":690.4067700987306},{"type":"LifeInsurance","name":"HLI","value":"17364870","volume":"17364870","price":"410.00","pc":"-1.20","vwap":411.4020706484399},{"type":"Hydropower","name":"MEHL","value":"6541801","volume":"6541801","price":"288.00","pc":"-2.14","vwap":289.48583945481903},{"type":"Non-LifeInsurance","name":"SPIL","value":"4890240","volume":"4890240","price":"745.10","pc":"-1.70","vwap":750.6124328472755},{"type":"Non-Life Insurance","name":"SALICO","value":"4295073","volume":"4295073","price":"679.00","pc":"-1.59","vwap":684.4737848605578},{"type":"Hydropower","name":"VLUCL","value":"7767352","volume":"7767352","price":"513.20","pc":"-0.74","vwap":516.0345469040659},{"type":"Non-LifeInsurance","name":"IGI","value":"13288916","volume":"13288916","price":"543.80","pc":"0.00","vwap":540.9474883985997},{"type":"Life Insurance","name":"SRLI","value":"6183773","volume":"6183773","price":"452.00","pc":"-1.74","vwap":453.25610203034523},{"type":"Hydropower","name":"KBSH","value":"1307937","volume":"1307937","price":"1039.00","pc":"0.87","vwap":1029.871653543307},{"type":"CommercialBank","name":"LSL","value":"5576026","volume":"5576026","price":"161.50","pc":"-0.31","vwap":161.05906819560383},{"type":"Non-Life Insurance","name":"UAIL","value":"5485702","volume":"5485702","price":"545.00","pc":"-0.57","vwap":547.5298932029144},{"type":"LifeInsurance","name":"PMLI","value":"2880308","volume":"2880308","price":"532.00","pc":"-0.19","vwap":528.3030080704328},{"type":"Mutual Fund","name":"H8020","value":"102176","volume":"102176","price":"8.75","pc":"-0.68","vwap":8.658983050847457},{"type":"Microfinance","name":"NMFBS","value":"3389347","volume":"3389347","price":"1160.00","pc":"-1.44","vwap":1165.1244413887935}]}
